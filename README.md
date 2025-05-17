@@ -2,7 +2,7 @@
 
 A Python application that uses YOLOv8 to detect objects from your webcam feed in real-time.
 
-## Setup with Python/Python 3
+## Setup with Python 3
 
 This project requires Python 3 and uses the latest YOLOv8 model from Ultralytics.
 
@@ -48,4 +48,4 @@ python3 webcam_detection.py
 - Ultralytics YOLOv8
 - A working webcam
 
-![img.png](img.png)
+<img width="1122" alt="image" src="https://github.com/user-attachments/assets/1d4ce181-1b80-440c-bbd3-cd1c5444bf76" />
